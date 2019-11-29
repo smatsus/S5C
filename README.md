@@ -4,7 +4,7 @@ MATLAB implementation of [Selective Sampling-based Scalable Sparse Subspace Clus
 
 ## Test run
 
- Mex file representation_learning/cdescentCycleC.mexa64 is built for 64-bit Linux. If running on other platform, first compile  representation_learning/cdescentCycleC.c to create mex file for your platform (see [Matlab documentation](https://www.mathworks.com/help/matlab/matlab_external/build-an-executable-mex-file.html) for that).
+ Mex file representation_learning/cdescentCycleC.mexa64 is built for 64-bit Linux. If running on other platform, first compile  representation_learning/cdescentCycleC.c to create mex file for your platform (see [Matlab documentation](https://www.mathworks.com/help/matlab/matlab_external/build-an-executable-mex-file.html)).
 
 Examples how to run the code are given in directory run_examples. Example scripts are given for all datasets used in the paper.
 
