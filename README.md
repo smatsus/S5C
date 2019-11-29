@@ -22,7 +22,6 @@ When using the code in your research work, please cite "Selective Sampling-based
     title={Selective Sampling-based Scalable Sparse Subspace Clustering},
     author={Matsushima, Shin and Brbi\'c, Maria},
     booktitle = {Advances in Neural Information Processing Systems 32},
-    editor = {H. Wallach and H. Larochelle and A. Beygelzimer and F. d\textquotesingle Alch\'{e}-Buc and E. Fox and R. Garnett},
     pages = {12416--12425},
     year = {2019},
     publisher = {Curran Associates, Inc.},
