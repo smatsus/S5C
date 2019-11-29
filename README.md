@@ -1,6 +1,6 @@
 ## S5C
 
-MATLAB implementation of [Selective Sampling-based Scalable Sparse Subspace Clustering](http://papers.nips.cc/paper/9408-selective-sampling-based-scalable-sparse-subspace-clustering.pdf) (S5C). S5C algorithm selects subsamples based on the approximated subgradients and linearly scales with the number of data points in terms of time and memory requirements. It provides theoretical guarantees of the correctness of the solution.  
+MATLAB implementation of [Selective Sampling-based Scalable Sparse Subspace Clustering](http://papers.nips.cc/paper/9408-selective-sampling-based-scalable-sparse-subspace-clustering.pdf) (NeurIPS '19). S5C algorithm selects subsamples based on the approximated subgradients and linearly scales with the number of data points in terms of time and memory requirements. It provides theoretical guarantees of the correctness of the solution.  
 
 ## Test run
 
