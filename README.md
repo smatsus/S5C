@@ -18,7 +18,7 @@ CIFAR-10 and Devanagari are not included due to their size. CIFAR-10 can be down
 
 When using the code in your research work, please cite "Selective Sampling-based Scalable Sparse Subspace Clustering" by Shin Matsushima and Maria Brbic.
 
-    @incollection{NeurIPS2019_9408,
+    @incollection{matsushima19_s5c,
     title={Selective Sampling-based Scalable Sparse Subspace Clustering},
     author={Matsushima, Shin and Brbi\'c, Maria},
     booktitle = {Advances in Neural Information Processing Systems 32},
